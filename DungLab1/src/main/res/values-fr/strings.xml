@@ -1,6 +1,8 @@
 
 <!-- Dung Ly n1327929 section C -->
 <resources>
-    <string name="app_name">DungLab1</string>
-    <string name="entry_label"> Bonjour le monde  29 !</string>
+    <string name="app_name">!!! Dung Ly N1327929</string>
+    <string name="entry_label">Welcome DUNG LY N01327929</string>
+    <string name="textview1"></string>
+    <string name="textview2">Mon deuxième écran DUNG LY N01327929</string>
 </resources>
