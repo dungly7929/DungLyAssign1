@@ -1,3 +1,2 @@
-include ':SimpleIntent'
 include ':DungLab1'
 rootProject.name = "DungLab1"
